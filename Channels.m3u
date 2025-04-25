@@ -22,7 +22,7 @@ http://channels.stevensonbroadcasting.io/stream/c1fee31623001faa4a5017c4e7c82aef
 #EXTINF:0 channelID="x-ID.10" tvg-chno="11" tvg-name="CBS (WCBS)" tvg-id="11" tvg-logo="https://videos.stevensonbroadcasting.io/logos/CBS.png" group-title="US",CBS (WCBS)
 http://channels.stevensonbroadcasting.io/stream/dd904a543cfb755db1dbf6b4f0b70006
 #EXTINF:0 channelID="x-ID.98" tvg-chno="12" tvg-name="City TV (Toronto)" tvg-id="12" tvg-logo="https://videos.stevensonbroadcasting.io/logos/CITY-TV.png" group-title="Canada",City TV (Toronto)
-http://channels.stevensonbroadcasting.io/stream/d13bc7830f71d0109b85bada56b2bc45
+http://channels.stevensonbroadcasting.io/stream/f29019563d09ebfac7c310a82b17df2f
 #EXTINF:0 channelID="x-ID.12" tvg-chno="13" tvg-name="CMT" tvg-id="13" tvg-logo="https://videos.stevensonbroadcasting.io/logos/CMT.png" group-title="US",CMT
 http://channels.stevensonbroadcasting.io/stream/d4af72f193e14e0a4f9cc7a551ee2347
 #EXTINF:0 channelID="x-ID.14" tvg-chno="14" tvg-name="Comedy Central" tvg-id="14" tvg-logo="https://videos.stevensonbroadcasting.io/logos/ComedyCentral.png" group-title="US",Comedy Central
@@ -46,7 +46,7 @@ http://channels.stevensonbroadcasting.io/stream/47b0b6948a18737adb36a0f0c2581166
 #EXTINF:0 channelID="x-ID.27" tvg-chno="23" tvg-name="Game Show Network" tvg-id="23" tvg-logo="https://videos.stevensonbroadcasting.io/logos/GameShow.png" group-title="US",Game Show Network
 http://channels.stevensonbroadcasting.io/stream/f1f9415e44aa0da719f9b0751ffe6af3
 #EXTINF:0 channelID="x-ID.99" tvg-chno="24" tvg-name="Global TV (Maritimes)" tvg-id="24" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Global.png" group-title="Canada",Global TV (Maritimes)
-http://channels.stevensonbroadcasting.io/stream/85f8f9a6f8262359acb755e44b89b9e4
+http://channels.stevensonbroadcasting.io/stream/3160c1c6008f3846830e3f7244b2d3c7
 #EXTINF:0 channelID="x-ID.29" tvg-chno="25" tvg-name="History" tvg-id="25" tvg-logo="https://videos.stevensonbroadcasting.io/logos/History.png" group-title="US",History
 http://channels.stevensonbroadcasting.io/stream/879d1a0d4da62224aac9cf6d802ffad9
 #EXTINF:0 channelID="x-ID.30" tvg-chno="26" tvg-name="HGTV" tvg-id="26" tvg-logo="https://videos.stevensonbroadcasting.io/logos/HGTV.png" group-title="US",HGTV
@@ -88,11 +88,11 @@ http://channels.stevensonbroadcasting.io/stream/686b53240701d5e3826acbf7980025fc
 #EXTINF:0 channelID="x-ID.66" tvg-chno="44" tvg-name="W Network" tvg-id="44" tvg-logo="https://videos.stevensonbroadcasting.io/logos/WNetwork.png" group-title="Canada",W Network
 http://channels.stevensonbroadcasting.io/stream/babd9b2521428b2b28b23db3313a0aeb
 #EXTINF:0 channelID="x-ID.102" tvg-chno="45" tvg-name="ABC Spark" tvg-id="45" tvg-logo="https://media.starlite.best/abc.spark.ca.png" group-title="Canada",ABC Spark
-http://channels.stevensonbroadcasting.io/stream/2df7102228c6795cf63e4787ac6ae907
+http://channels.stevensonbroadcasting.io/stream/d76281ce728481c2e65fcabd0a580940
 #EXTINF:0 channelID="x-ID.100" tvg-chno="46" tvg-name="Adult Swim" tvg-id="46" tvg-logo="https://videos.stevensonbroadcasting.io/logos/AdultSwim.png" group-title="Canada",Adult Swim
-http://channels.stevensonbroadcasting.io/stream/4aba6b674685cf20afb825972aca7842
+http://channels.stevensonbroadcasting.io/stream/77ecd36bee005a966d07bcd0f81ff824
 #EXTINF:0 channelID="x-ID.101" tvg-chno="47" tvg-name="CTV Halifax" tvg-id="47" tvg-logo="https://videos.stevensonbroadcasting.io/logos/CJCH-CTV.png" group-title="Canada",CTV Halifax
-http://channels.stevensonbroadcasting.io/stream/44c5e783cec3ad7c3abaa2570c086e42
+http://channels.stevensonbroadcasting.io/stream/a96e6e961375547d0a7ecd3bbcc95da4
 #EXTINF:0 channelID="x-ID.9" tvg-chno="1000" tvg-name="Cartoon Network" tvg-id="1000" tvg-logo="https://videos.stevensonbroadcasting.io/logos/CartoonNetwork.png" group-title="Kids",Cartoon Network
 http://channels.stevensonbroadcasting.io/stream/c5cd984b8998f9ea93bc64e7b6f21afc
 #EXTINF:0 channelID="x-ID.17" tvg-chno="1001" tvg-name="Disney Channel" tvg-id="1001" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Disney.png" group-title="Kids",Disney Channel
@@ -108,17 +108,17 @@ http://channels.stevensonbroadcasting.io/stream/ad8b307b1de249fb7399111bc9811e17
 #EXTINF:0 channelID="x-ID.40" tvg-chno="1006" tvg-name="NickToons" tvg-id="1006" tvg-logo="https://videos.stevensonbroadcasting.io/logos/NickToons.png" group-title="Kids",NickToons
 http://channels.stevensonbroadcasting.io/stream/c77eb94f88ba7432cd9a549a468b06d0
 #EXTINF:0 channelID="x-ID.103" tvg-chno="1007" tvg-name="Treehouse" tvg-id="1007" tvg-logo="https://media.starlite.best/treehouse.ca.png" group-title="Kids",Treehouse
-http://channels.stevensonbroadcasting.io/stream/50ad315da8a8dce21fb277890b5feafd
+http://channels.stevensonbroadcasting.io/stream/02a71b4535c837d769b88bfe5e5500aa
 #EXTINF:0 channelID="x-ID.11" tvg-chno="2000" tvg-name="Cinemax" tvg-id="2000" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Cinemax.png" group-title="Movies",Cinemax
 http://channels.stevensonbroadcasting.io/stream/ec823511b44daf9c2520a8b69baada67
 #EXTINF:0 channelID="x-ID.88" tvg-chno="2001" tvg-name="Crave 1" tvg-id="2001" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Crave1.png" group-title="MV: Movies",Crave 1
-http://channels.stevensonbroadcasting.io/stream/a21b3a5d138ef5570af4e381f04e5950
+http://channels.stevensonbroadcasting.io/stream/44c3516eb95d532c5e126b211f6daa9e
 #EXTINF:0 channelID="x-ID.89" tvg-chno="2002" tvg-name="Crave 2" tvg-id="2002" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Crave2.png" group-title="MV: Movies",Crave 2
-http://channels.stevensonbroadcasting.io/stream/324270aa4f1abecb047246b7dc6c5872
+http://channels.stevensonbroadcasting.io/stream/bf1cd0293abd444bb1352079f9b4c858
 #EXTINF:0 channelID="x-ID.92" tvg-chno="2003" tvg-name="Crave 3" tvg-id="2003" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Crave3.png" group-title="MV: Movies",Crave 3
-http://channels.stevensonbroadcasting.io/stream/27f224200aec4c5897ad6f702bdaae85
+http://channels.stevensonbroadcasting.io/stream/83e89adea1a80f54b879750792b1d1a8
 #EXTINF:0 channelID="x-ID.93" tvg-chno="2004" tvg-name="Crave 4" tvg-id="2004" tvg-logo="" group-title="MV: Movies",Crave 4
-http://channels.stevensonbroadcasting.io/stream/56ac741ba80281e80c37f849b56c6f9a
+http://channels.stevensonbroadcasting.io/stream/1455d8adf705369c4d9b69409e4b7950
 #EXTINF:0 channelID="x-ID.25" tvg-chno="2005" tvg-name="FXM" tvg-id="2005" tvg-logo="https://videos.stevensonbroadcasting.io/logos/FXM.png" group-title="Movies",FXM
 http://channels.stevensonbroadcasting.io/stream/a390f2542df9c24c4264580a2c462a47
 #EXTINF:0 channelID="x-ID.28" tvg-chno="2006" tvg-name="Hallmark" tvg-id="2006" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Hallmark.png" group-title="Movies",Hallmark
