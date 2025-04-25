@@ -1,0 +1,205 @@
+#EXTM3U url-tvg="http://channels.stevensonbroadcasting.io/xmltv/xteve.xml" x-tvg-url="http://channels.stevensonbroadcasting.io/xmltv/xteve.xml"
+#EXTINF:0 channelID="x-ID.61" tvg-chno="1" tvg-name="SMG TV" tvg-id="1" tvg-logo="https://videos.stevensonbroadcasting.io/logos/SMGTV.png" group-title="Valley",SMG TV
+http://channels.stevensonbroadcasting.io/stream/e15d0b131415b9350ff39b941f8fef92
+#EXTINF:0 channelID="x-ID.0" tvg-chno="2" tvg-name="A&E" tvg-id="2" tvg-logo="https://videos.stevensonbroadcasting.io/logos/AE.png" group-title="US",A&E
+http://channels.stevensonbroadcasting.io/stream/342e419a9947d2a4584fde74be33f0f6
+#EXTINF:0 channelID="x-ID.1" tvg-chno="3" tvg-name="ABC (WABC)" tvg-id="3" tvg-logo="https://videos.stevensonbroadcasting.io/logos/ABC.png" group-title="US",ABC (WABC)
+http://channels.stevensonbroadcasting.io/stream/5da88ec527d3d7067769bc9e91d02ef5
+#EXTINF:0 channelID="x-ID.2" tvg-chno="4" tvg-name="AMC" tvg-id="4" tvg-logo="https://videos.stevensonbroadcasting.io/logos/AMC.png" group-title="US",AMC
+http://channels.stevensonbroadcasting.io/stream/51499b488f89bd9d556fc964514c4288
+#EXTINF:0 channelID="x-ID.3" tvg-chno="5" tvg-name="Animal Planet" tvg-id="5" tvg-logo="https://videos.stevensonbroadcasting.io/logos/AnimalPlanet.png" group-title="US",Animal Planet
+http://channels.stevensonbroadcasting.io/stream/f6b43a19ee04a62bba9c96d4d31788d3
+#EXTINF:0 channelID="x-ID.4" tvg-chno="6" tvg-name="BET" tvg-id="6" tvg-logo="https://videos.stevensonbroadcasting.io/logos/BET.png" group-title="US",BET
+http://channels.stevensonbroadcasting.io/stream/0e44909106822668b2c5f65c59120965
+#EXTINF:0 channelID="x-ID.5" tvg-chno="7" tvg-name="BET Her" tvg-id="7" tvg-logo="https://videos.stevensonbroadcasting.io/logos/BETHer.png" group-title="US",BET Her
+http://channels.stevensonbroadcasting.io/stream/08303f8c4d47539fe499b91ec7a82c1f
+#EXTINF:0 channelID="x-ID.7" tvg-chno="8" tvg-name="Boomerang" tvg-id="8" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21883/s21883_ll_h15_ab.png" group-title="US",Boomerang
+http://channels.stevensonbroadcasting.io/stream/fea8cb5035269aa55c4576ee4436911c
+#EXTINF:0 channelID="x-ID.8" tvg-chno="9" tvg-name="Bravo" tvg-id="9" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Bravo.png" group-title="US",Bravo
+http://channels.stevensonbroadcasting.io/stream/0fbe1360a13ebea51f0949daaff70382
+#EXTINF:0 channelID="x-ID.62" tvg-chno="10" tvg-name="CBC Halifax" tvg-id="10" tvg-logo="https://videos.stevensonbroadcasting.io/logos/CBHT-CBC.png" group-title="Canada",CBC Halifax
+http://channels.stevensonbroadcasting.io/stream/c1fee31623001faa4a5017c4e7c82aef
+#EXTINF:0 channelID="x-ID.10" tvg-chno="11" tvg-name="CBS (WCBS)" tvg-id="11" tvg-logo="https://videos.stevensonbroadcasting.io/logos/CBS.png" group-title="US",CBS (WCBS)
+http://channels.stevensonbroadcasting.io/stream/dd904a543cfb755db1dbf6b4f0b70006
+#EXTINF:0 channelID="x-ID.98" tvg-chno="12" tvg-name="City TV (Toronto)" tvg-id="12" tvg-logo="https://videos.stevensonbroadcasting.io/logos/CITY-TV.png" group-title="Canada",City TV (Toronto)
+http://channels.stevensonbroadcasting.io/stream/d13bc7830f71d0109b85bada56b2bc45
+#EXTINF:0 channelID="x-ID.12" tvg-chno="13" tvg-name="CMT" tvg-id="13" tvg-logo="https://videos.stevensonbroadcasting.io/logos/CMT.png" group-title="US",CMT
+http://channels.stevensonbroadcasting.io/stream/d4af72f193e14e0a4f9cc7a551ee2347
+#EXTINF:0 channelID="x-ID.14" tvg-chno="14" tvg-name="Comedy Central" tvg-id="14" tvg-logo="https://videos.stevensonbroadcasting.io/logos/ComedyCentral.png" group-title="US",Comedy Central
+http://channels.stevensonbroadcasting.io/stream/4acdc19170f48fbbc535ea92edc8e151
+#EXTINF:0 channelID="x-ID.15" tvg-chno="15" tvg-name="Discovery Channel" tvg-id="15" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Discovery.png" group-title="US",Discovery Channel
+http://channels.stevensonbroadcasting.io/stream/3d3d4c0360822fa88b627174d5bce465
+#EXTINF:0 channelID="x-ID.16" tvg-chno="16" tvg-name="Discovery Channel (Source2)" tvg-id="16" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Discovery.png" group-title="US",Discovery Channel (Source2)
+http://channels.stevensonbroadcasting.io/stream/b9f566d6158436320ca4d810d56c1ba4
+#EXTINF:0 channelID="x-ID.20" tvg-chno="17" tvg-name="E!" tvg-id="17" tvg-logo="https://videos.stevensonbroadcasting.io/logos/E.png" group-title="US",E!
+http://channels.stevensonbroadcasting.io/stream/d290e549a9f57e7605cd23fc4234cc7a
+#EXTINF:0 channelID="x-ID.21" tvg-chno="18" tvg-name="Food Network" tvg-id="18" tvg-logo="https://videos.stevensonbroadcasting.io/logos/FoodNetwork.png" group-title="US",Food Network
+http://channels.stevensonbroadcasting.io/stream/053c815a79db68f6bbe7df9365d56208
+#EXTINF:0 channelID="x-ID.22" tvg-chno="19" tvg-name="FOX" tvg-id="19" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Fox.png" group-title="US",FOX
+http://channels.stevensonbroadcasting.io/stream/d94f51777b15afe77dec2e0275b54312
+#EXTINF:0 channelID="x-ID.23" tvg-chno="20" tvg-name="Fuse" tvg-id="20" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Fuse.png" group-title="US",Fuse
+http://channels.stevensonbroadcasting.io/stream/9db76a549be10ab8ed973ae16e61e080
+#EXTINF:0 channelID="x-ID.24" tvg-chno="21" tvg-name="FX" tvg-id="21" tvg-logo="https://videos.stevensonbroadcasting.io/logos/FX.png" group-title="US",FX
+http://channels.stevensonbroadcasting.io/stream/a1bdbf8204d5a384e3ce6ddcb0792f71
+#EXTINF:0 channelID="x-ID.26" tvg-chno="22" tvg-name="FXX" tvg-id="22" tvg-logo="https://videos.stevensonbroadcasting.io/logos/FXX.png" group-title="US",FXX
+http://channels.stevensonbroadcasting.io/stream/47b0b6948a18737adb36a0f0c2581166
+#EXTINF:0 channelID="x-ID.27" tvg-chno="23" tvg-name="Game Show Network" tvg-id="23" tvg-logo="https://videos.stevensonbroadcasting.io/logos/GameShow.png" group-title="US",Game Show Network
+http://channels.stevensonbroadcasting.io/stream/f1f9415e44aa0da719f9b0751ffe6af3
+#EXTINF:0 channelID="x-ID.99" tvg-chno="24" tvg-name="Global TV (Maritimes)" tvg-id="24" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Global.png" group-title="Canada",Global TV (Maritimes)
+http://channels.stevensonbroadcasting.io/stream/85f8f9a6f8262359acb755e44b89b9e4
+#EXTINF:0 channelID="x-ID.29" tvg-chno="25" tvg-name="History" tvg-id="25" tvg-logo="https://videos.stevensonbroadcasting.io/logos/History.png" group-title="US",History
+http://channels.stevensonbroadcasting.io/stream/879d1a0d4da62224aac9cf6d802ffad9
+#EXTINF:0 channelID="x-ID.30" tvg-chno="26" tvg-name="HGTV" tvg-id="26" tvg-logo="https://videos.stevensonbroadcasting.io/logos/HGTV.png" group-title="US",HGTV
+http://channels.stevensonbroadcasting.io/stream/7e64158c21082bdf8e5ba9e366eeea27
+#EXTINF:0 channelID="x-ID.31" tvg-chno="27" tvg-name="Lifetime" tvg-id="27" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Lifetime.png" group-title="US",Lifetime
+http://channels.stevensonbroadcasting.io/stream/1d38af7681d2c7e3b39f52dce3a88ea1
+#EXTINF:0 channelID="x-ID.33" tvg-chno="28" tvg-name="MTV" tvg-id="28" tvg-logo="https://videos.stevensonbroadcasting.io/logos/MTV.png" group-title="US",MTV
+http://channels.stevensonbroadcasting.io/stream/e132f9610ec8bd594d688538faed9a7d
+#EXTINF:0 channelID="x-ID.34" tvg-chno="29" tvg-name="MTV2" tvg-id="29" tvg-logo="https://videos.stevensonbroadcasting.io/logos/MTV2.png" group-title="US",MTV2
+http://channels.stevensonbroadcasting.io/stream/d9bb26ddc40634c0938dc71ac9f928d6
+#EXTINF:0 channelID="x-ID.64" tvg-chno="30" tvg-name="MUCH" tvg-id="30" tvg-logo="https://videos.stevensonbroadcasting.io/logos/MUCH.png" group-title="Canada",MUCH
+http://channels.stevensonbroadcasting.io/stream/799c30894c93a0b0334730b09303e4e8
+#EXTINF:0 channelID="x-ID.35" tvg-chno="31" tvg-name="National Geographic" tvg-id="31" tvg-logo="https://videos.stevensonbroadcasting.io/logos/NatGeo.png" group-title="US",National Geographic
+http://channels.stevensonbroadcasting.io/stream/8678542b7fd4e851af51f297c038585e
+#EXTINF:0 channelID="x-ID.36" tvg-chno="32" tvg-name="Nat Geo WILD" tvg-id="32" tvg-logo="https://videos.stevensonbroadcasting.io/logos/NatGeoWild.png" group-title="US",Nat Geo WILD
+http://channels.stevensonbroadcasting.io/stream/7fcb445645fef322f64b84cf9e5132e6
+#EXTINF:0 channelID="x-ID.37" tvg-chno="33" tvg-name="NBC (WNBC)" tvg-id="33" tvg-logo="https://videos.stevensonbroadcasting.io/logos/NBC.png" group-title="US",NBC (WNBC)
+http://channels.stevensonbroadcasting.io/stream/92c89ababa02190044b314a01fec3742
+#EXTINF:0 channelID="x-ID.42" tvg-chno="34" tvg-name="Paramount" tvg-id="34" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Paramount.png" group-title="US",Paramount
+http://channels.stevensonbroadcasting.io/stream/bfb185e1eed21ff033d50829c046e44d
+#EXTINF:0 channelID="x-ID.65" tvg-chno="35" tvg-name="Racer" tvg-id="35" tvg-logo="https://videos.stevensonbroadcasting.io/logos/MAVTV.png" group-title="US",Racer
+http://channels.stevensonbroadcasting.io/stream/f0c01f0390ea2e6c868af623370927f0
+#EXTINF:0 channelID="x-ID.43" tvg-chno="36" tvg-name="ReelzChannel" tvg-id="36" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Reelz.png" group-title="US",ReelzChannel
+http://channels.stevensonbroadcasting.io/stream/e153f1e3fd42ebca62a9b14cff7c0bc9
+#EXTINF:0 channelID="x-ID.44" tvg-chno="37" tvg-name="SYFY" tvg-id="37" tvg-logo="https://videos.stevensonbroadcasting.io/logos/SYFY.png" group-title="US",SYFY
+http://channels.stevensonbroadcasting.io/stream/9a0d9401972f1e4c21dc392b35725de5
+#EXTINF:0 channelID="x-ID.45" tvg-chno="38" tvg-name="TBS" tvg-id="38" tvg-logo="https://videos.stevensonbroadcasting.io/logos/TBS.png" group-title="US",TBS
+http://channels.stevensonbroadcasting.io/stream/0f9d6cf744ecbf54e8f1123a5d0c139c
+#EXTINF:0 channelID="x-ID.47" tvg-chno="39" tvg-name="TLC" tvg-id="39" tvg-logo="https://videos.stevensonbroadcasting.io/logos/TLC.png" group-title="US",TLC
+http://channels.stevensonbroadcasting.io/stream/89fa7ab8583fda453a7e86fcfb221db0
+#EXTINF:0 channelID="x-ID.48" tvg-chno="40" tvg-name="TNT" tvg-id="40" tvg-logo="https://videos.stevensonbroadcasting.io/logos/TNT.png" group-title="US",TNT
+http://channels.stevensonbroadcasting.io/stream/baf6a7776fa0ff91d302e6636b2d7b05
+#EXTINF:0 channelID="x-ID.49" tvg-chno="41" tvg-name="Travel Channel" tvg-id="41" tvg-logo="https://videos.stevensonbroadcasting.io/logos/TravelUS.png" group-title="US",Travel Channel
+http://channels.stevensonbroadcasting.io/stream/ceb25289d5c748b9a0c56a83cddd4b47
+#EXTINF:0 channelID="x-ID.50" tvg-chno="42" tvg-name="USA Network" tvg-id="42" tvg-logo="https://videos.stevensonbroadcasting.io/logos/USA.png" group-title="US",USA Network
+http://channels.stevensonbroadcasting.io/stream/74d79e993bd52ceccbf416a17dc02de6
+#EXTINF:0 channelID="x-ID.51" tvg-chno="43" tvg-name="VH1" tvg-id="43" tvg-logo="https://videos.stevensonbroadcasting.io/logos/VH1.png" group-title="US",VH1
+http://channels.stevensonbroadcasting.io/stream/686b53240701d5e3826acbf7980025fc
+#EXTINF:0 channelID="x-ID.66" tvg-chno="44" tvg-name="W Network" tvg-id="44" tvg-logo="https://videos.stevensonbroadcasting.io/logos/WNetwork.png" group-title="Canada",W Network
+http://channels.stevensonbroadcasting.io/stream/babd9b2521428b2b28b23db3313a0aeb
+#EXTINF:0 channelID="x-ID.102" tvg-chno="45" tvg-name="ABC Spark" tvg-id="45" tvg-logo="https://media.starlite.best/abc.spark.ca.png" group-title="Canada",ABC Spark
+http://channels.stevensonbroadcasting.io/stream/2df7102228c6795cf63e4787ac6ae907
+#EXTINF:0 channelID="x-ID.100" tvg-chno="46" tvg-name="Adult Swim" tvg-id="46" tvg-logo="https://videos.stevensonbroadcasting.io/logos/AdultSwim.png" group-title="Canada",Adult Swim
+http://channels.stevensonbroadcasting.io/stream/4aba6b674685cf20afb825972aca7842
+#EXTINF:0 channelID="x-ID.101" tvg-chno="47" tvg-name="CTV Halifax" tvg-id="47" tvg-logo="https://videos.stevensonbroadcasting.io/logos/CJCH-CTV.png" group-title="Canada",CTV Halifax
+http://channels.stevensonbroadcasting.io/stream/44c5e783cec3ad7c3abaa2570c086e42
+#EXTINF:0 channelID="x-ID.9" tvg-chno="1000" tvg-name="Cartoon Network" tvg-id="1000" tvg-logo="https://videos.stevensonbroadcasting.io/logos/CartoonNetwork.png" group-title="Kids",Cartoon Network
+http://channels.stevensonbroadcasting.io/stream/c5cd984b8998f9ea93bc64e7b6f21afc
+#EXTINF:0 channelID="x-ID.17" tvg-chno="1001" tvg-name="Disney Channel" tvg-id="1001" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Disney.png" group-title="Kids",Disney Channel
+http://channels.stevensonbroadcasting.io/stream/fc7e1fba37e87e76b0d98629091ac6b1
+#EXTINF:0 channelID="x-ID.18" tvg-chno="1002" tvg-name="Disney Junior" tvg-id="1002" tvg-logo="https://videos.stevensonbroadcasting.io/logos/DisneyJR.png" group-title="Kids",Disney Junior
+http://channels.stevensonbroadcasting.io/stream/105c513b0f0028b1098108fb13477893
+#EXTINF:0 channelID="x-ID.19" tvg-chno="1003" tvg-name="Disney XD" tvg-id="1003" tvg-logo="https://videos.stevensonbroadcasting.io/logos/DisneyXD.png" group-title="Kids",Disney XD
+http://channels.stevensonbroadcasting.io/stream/eaa2c179182706cd28aa4c28e0820b83
+#EXTINF:0 channelID="x-ID.38" tvg-chno="1004" tvg-name="Nickelodeon" tvg-id="1004" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Nick.png" group-title="Kids",Nickelodeon
+http://channels.stevensonbroadcasting.io/stream/e49028ff57510a05cbde3d09a5d651fe
+#EXTINF:0 channelID="x-ID.39" tvg-chno="1005" tvg-name="Nick Jr." tvg-id="1005" tvg-logo="https://videos.stevensonbroadcasting.io/logos/NickJR.png" group-title="Kids",Nick Jr.
+http://channels.stevensonbroadcasting.io/stream/ad8b307b1de249fb7399111bc9811e17
+#EXTINF:0 channelID="x-ID.40" tvg-chno="1006" tvg-name="NickToons" tvg-id="1006" tvg-logo="https://videos.stevensonbroadcasting.io/logos/NickToons.png" group-title="Kids",NickToons
+http://channels.stevensonbroadcasting.io/stream/c77eb94f88ba7432cd9a549a468b06d0
+#EXTINF:0 channelID="x-ID.103" tvg-chno="1007" tvg-name="Treehouse" tvg-id="1007" tvg-logo="https://media.starlite.best/treehouse.ca.png" group-title="Kids",Treehouse
+http://channels.stevensonbroadcasting.io/stream/50ad315da8a8dce21fb277890b5feafd
+#EXTINF:0 channelID="x-ID.11" tvg-chno="2000" tvg-name="Cinemax" tvg-id="2000" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Cinemax.png" group-title="Movies",Cinemax
+http://channels.stevensonbroadcasting.io/stream/ec823511b44daf9c2520a8b69baada67
+#EXTINF:0 channelID="x-ID.88" tvg-chno="2001" tvg-name="Crave 1" tvg-id="2001" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Crave1.png" group-title="MV: Movies",Crave 1
+http://channels.stevensonbroadcasting.io/stream/a21b3a5d138ef5570af4e381f04e5950
+#EXTINF:0 channelID="x-ID.89" tvg-chno="2002" tvg-name="Crave 2" tvg-id="2002" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Crave2.png" group-title="MV: Movies",Crave 2
+http://channels.stevensonbroadcasting.io/stream/324270aa4f1abecb047246b7dc6c5872
+#EXTINF:0 channelID="x-ID.92" tvg-chno="2003" tvg-name="Crave 3" tvg-id="2003" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Crave3.png" group-title="MV: Movies",Crave 3
+http://channels.stevensonbroadcasting.io/stream/27f224200aec4c5897ad6f702bdaae85
+#EXTINF:0 channelID="x-ID.93" tvg-chno="2004" tvg-name="Crave 4" tvg-id="2004" tvg-logo="" group-title="MV: Movies",Crave 4
+http://channels.stevensonbroadcasting.io/stream/56ac741ba80281e80c37f849b56c6f9a
+#EXTINF:0 channelID="x-ID.25" tvg-chno="2005" tvg-name="FXM" tvg-id="2005" tvg-logo="https://videos.stevensonbroadcasting.io/logos/FXM.png" group-title="Movies",FXM
+http://channels.stevensonbroadcasting.io/stream/a390f2542df9c24c4264580a2c462a47
+#EXTINF:0 channelID="x-ID.28" tvg-chno="2006" tvg-name="Hallmark" tvg-id="2006" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Hallmark.png" group-title="Movies",Hallmark
+http://channels.stevensonbroadcasting.io/stream/26e42426f49690100785e49a3b0d6b4b
+#EXTINF:0 channelID="x-ID.52" tvg-chno="2007" tvg-name="HBO" tvg-id="2007" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19548/s19548_ll_h15_aa.png" group-title="Movies",HBO
+http://channels.stevensonbroadcasting.io/stream/70d9c61116b4889d86d24b0acb22dfa0
+#EXTINF:0 channelID="x-ID.53" tvg-chno="2008" tvg-name="HBO 2" tvg-id="2008" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59368/s59368_ll_h15_aa.png" group-title="Movies",HBO 2
+http://channels.stevensonbroadcasting.io/stream/b93ff69a1c1ada3764d0373c7b78f933
+#EXTINF:0 channelID="x-ID.54" tvg-chno="2009" tvg-name="HBO Comedy" tvg-id="2009" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59839/s59839_ll_h15_aa.png" group-title="Movies",HBO Comedy
+http://channels.stevensonbroadcasting.io/stream/48524d6eeee15161712b978337ae1b65
+#EXTINF:0 channelID="x-ID.55" tvg-chno="2010" tvg-name="HBO Family" tvg-id="2010" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59357/s59357_ll_h15_aa.png" group-title="Movies",HBO Family
+http://channels.stevensonbroadcasting.io/stream/e7d442100c80283d30fcf0e25b741314
+#EXTINF:0 channelID="x-ID.56" tvg-chno="2011" tvg-name="HBO Signature" tvg-id="2011" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10243/s10243_ll_h15_aa.png" group-title="Movies",HBO Signature
+http://channels.stevensonbroadcasting.io/stream/7283d005cfb8ffc91ea0da6ddc7674c3
+#EXTINF:0 channelID="x-ID.57" tvg-chno="2012" tvg-name="HBO Zone" tvg-id="2012" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59845/s59845_ll_h15_aa.png" group-title="Movies",HBO Zone
+http://channels.stevensonbroadcasting.io/stream/d99c20c8ac01978a01914d8ed8503c73
+#EXTINF:0 channelID="x-ID.32" tvg-chno="2013" tvg-name="Lifetime Movies" tvg-id="2013" tvg-logo="https://videos.stevensonbroadcasting.io/logos/LifetimeMovies.png" group-title="Movies",Lifetime Movies
+http://channels.stevensonbroadcasting.io/stream/021c24276b4e844044180c3f4cb414db
+#EXTINF:0 channelID="x-ID.58" tvg-chno="2014" tvg-name="Showtime" tvg-id="2014" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Showtime.png" group-title="Movies",Showtime
+http://channels.stevensonbroadcasting.io/stream/8af7262099b24e75a255d616a7a0643d
+#EXTINF:0 channelID="x-ID.59" tvg-chno="2015" tvg-name="Showtime 2" tvg-id="2015" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Showtime2.png" group-title="Movies",Showtime 2
+http://channels.stevensonbroadcasting.io/stream/ec5133770d85a0cc393534011cf89880
+#EXTINF:0 channelID="x-ID.60" tvg-chno="2016" tvg-name="STARZ" tvg-id="2016" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Starz.png" group-title="Movies",STARZ
+http://channels.stevensonbroadcasting.io/stream/bbd14d2de26b536f2d559eb1831f6cde
+#EXTINF:0 channelID="x-ID.46" tvg-chno="2017" tvg-name="The Movie Channel" tvg-id="2017" tvg-logo="https://videos.stevensonbroadcasting.io/logos/TheMovieChannel.png" group-title="Movies",The Movie Channel
+http://channels.stevensonbroadcasting.io/stream/673d6c98a7867dd857313104c498364b
+#EXTINF:0 channelID="x-ID.97" tvg-chno="3000" tvg-name="ESPN" tvg-id="3000" tvg-logo="https://media.starlite.best/espn.us.png" group-title="Sports",ESPN
+http://channels.stevensonbroadcasting.io/stream/a7a81c8d8c8f0f466e0609e0592aac19
+#EXTINF:0 channelID="x-ID.71" tvg-chno="3001" tvg-name="TSN 1" tvg-id="3001" tvg-logo="https://videos.stevensonbroadcasting.io/logos/TSN1.png" group-title="Sports",TSN 1
+http://channels.stevensonbroadcasting.io/stream/d3d9df1678112b9d2fe63cdc8d6eb7d1
+#EXTINF:0 channelID="x-ID.72" tvg-chno="3002" tvg-name="TSN 2" tvg-id="3002" tvg-logo="https://videos.stevensonbroadcasting.io/logos/TSN2.png" group-title="Sports",TSN 2
+http://channels.stevensonbroadcasting.io/stream/3438c2c3383165c78b58d96710e5778d
+#EXTINF:0 channelID="x-ID.73" tvg-chno="3003" tvg-name="TSN 3" tvg-id="3003" tvg-logo="https://videos.stevensonbroadcasting.io/logos/TSN3.png" group-title="Sports",TSN 3
+http://channels.stevensonbroadcasting.io/stream/c759c5f7922912da86627c8b27a35d61
+#EXTINF:0 channelID="x-ID.74" tvg-chno="3004" tvg-name="TSN 4" tvg-id="3004" tvg-logo="https://videos.stevensonbroadcasting.io/logos/TSN4.png" group-title="Sports",TSN 4
+http://channels.stevensonbroadcasting.io/stream/4daef551ad11fa9a6b2088281085d7ba
+#EXTINF:0 channelID="x-ID.75" tvg-chno="3005" tvg-name="TSN 5" tvg-id="3005" tvg-logo="https://videos.stevensonbroadcasting.io/logos/TSN5.png" group-title="Sports",TSN 5
+http://channels.stevensonbroadcasting.io/stream/c8bae53dcc492a19fb3df6ffe64bddee
+#EXTINF:0 channelID="x-ID.76" tvg-chno="3006" tvg-name="Sportsnet" tvg-id="3006" tvg-logo="https://videos.stevensonbroadcasting.io/logos/SportsNetEast.png" group-title="Sports",Sportsnet
+http://channels.stevensonbroadcasting.io/stream/c89ac14cf5627c208cd4beb82f694b33
+#EXTINF:0 channelID="x-ID.77" tvg-chno="3007" tvg-name="Sportsnet 360" tvg-id="3007" tvg-logo="https://videos.stevensonbroadcasting.io/logos/SN360.png" group-title="Sports",Sportsnet 360
+http://channels.stevensonbroadcasting.io/stream/a8e5342d77e1dfde641332f80d2fa2b2
+#EXTINF:0 channelID="x-ID.78" tvg-chno="3008" tvg-name="Sportsnet One" tvg-id="3008" tvg-logo="https://videos.stevensonbroadcasting.io/logos/SN1.png" group-title="Sports",Sportsnet One
+http://channels.stevensonbroadcasting.io/stream/044cf99e17cab0eb67e1847a65b42e18
+#EXTINF:0 channelID="x-ID.79" tvg-chno="3009" tvg-name="NHL Network" tvg-id="3009" tvg-logo="https://static.epg.best/us/NHLNetwork.us.png" group-title="Sports",NHL Network
+http://channels.stevensonbroadcasting.io/stream/1be042175f636f4f14e8672cb87c166f
+#EXTINF:0 channelID="x-ID.91" tvg-chno="8001" tvg-name="CBC News Network" tvg-id="8001" tvg-logo="https://videos.stevensonbroadcasting.io/logos/CBCNews.png" group-title="News",CBC News Network
+http://channels.stevensonbroadcasting.io/stream/6c11f3d7dce90066ff9a97c8b7cb1e00
+#EXTINF:0 channelID="x-ID.90" tvg-chno="8002" tvg-name="CTV News Network" tvg-id="8002" tvg-logo="https://videos.stevensonbroadcasting.io/logos/CTVNews.png" group-title="News",CTV News Network
+http://channels.stevensonbroadcasting.io/stream/0df599b16a429e86d802ff50efd40501
+#EXTINF:0 channelID="x-ID.63" tvg-chno="8003" tvg-name="Global News Channel (Halifax)" tvg-id="8003" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Global.png" group-title="News",Global News Channel (Halifax)
+http://channels.stevensonbroadcasting.io/stream/db9dcc681ea897f8bf205d3c6bfd7e1a
+#EXTINF:0 channelID="x-ID.13" tvg-chno="8004" tvg-name="CNN" tvg-id="8004" tvg-logo="https://videos.stevensonbroadcasting.io/logos/CNN.png" group-title="News",CNN
+http://channels.stevensonbroadcasting.io/stream/0273a5ec20e86ea084da876a30a6f887
+#EXTINF:0 channelID="x-ID.6" tvg-chno="9000" tvg-name="BET Jams" tvg-id="9000" tvg-logo="https://media.starlite.best/bet.jams.us.png" group-title="Music",BET Jams
+http://channels.stevensonbroadcasting.io/stream/6028653126614e9e748b52a3c8b85ace
+#EXTINF:0 channelID="x-ID.41" tvg-chno="9001" tvg-name="NickMusic" tvg-id="9001" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11006/s11006_ll_h15_ab.png" group-title="Music",NickMusic
+http://channels.stevensonbroadcasting.io/stream/83730ffdc26fd0ebee0a0c842b2b6d8f
+#EXTINF:0 channelID="x-ID.67" tvg-chno="9002" tvg-name="Stingray Classic Rock (1080p)" tvg-id="9002" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Stingray.png" group-title="Music",Stingray Classic Rock (1080p)
+http://channels.stevensonbroadcasting.io/stream/f4b36e8ad99a7f5c4f7fc4827109e913
+#EXTINF:0 channelID="x-ID.69" tvg-chno="9003" tvg-name="Stingray Hit List (1080p)" tvg-id="9003" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Stingray.png" group-title="Music",Stingray Hit List (1080p)
+http://channels.stevensonbroadcasting.io/stream/86bceb4e12212ba9a7aea19c684076a8
+#EXTINF:0 channelID="x-ID.80" tvg-chno="9004" tvg-name="Stingray Hot Country (1080p)" tvg-id="9004" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Stingray.png" group-title="Music",Stingray Hot Country (1080p)
+http://channels.stevensonbroadcasting.io/stream/ce3eb6c4191527db1ccc0aaafebf42a9
+#EXTINF:0 channelID="x-ID.81" tvg-chno="9005" tvg-name="Stingray Naturescape (1080p)" tvg-id="9005" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Stingray.png" group-title="Music",Stingray Naturescape (1080p)
+http://channels.stevensonbroadcasting.io/stream/dac4859aa55d630725088d8370106b07
+#EXTINF:0 channelID="x-ID.82" tvg-chno="9006" tvg-name="Stingray Pop Adult (1080p)" tvg-id="9006" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Stingray.png" group-title="Music",Stingray Pop Adult (1080p)
+http://channels.stevensonbroadcasting.io/stream/5314661eb6e7151466d8798d46d2acfd
+#EXTINF:0 channelID="x-ID.83" tvg-chno="9007" tvg-name="Stingray Rock Alternative (1080p)" tvg-id="9007" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Stingray.png" group-title="Music",Stingray Rock Alternative (1080p)
+http://channels.stevensonbroadcasting.io/stream/6ad9872a3285c4475a5e007bc964899d
+#EXTINF:0 channelID="x-ID.84" tvg-chno="9008" tvg-name="Stingray Urban Beat (1080p)" tvg-id="9008" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Stingray.png" group-title="Music",Stingray Urban Beat (1080p)
+http://channels.stevensonbroadcasting.io/stream/1aeaf02aa502015a9e0b55f989f2a109
+#EXTINF:0 channelID="x-ID.85" tvg-chno="9009" tvg-name="Stingray Flashback 70s (1080p)" tvg-id="9009" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Stingray.png" group-title="Music",Stingray Flashback 70s (1080p)
+http://channels.stevensonbroadcasting.io/stream/0b950ea61002dd2596c2263554008fb2
+#EXTINF:0 channelID="x-ID.86" tvg-chno="9010" tvg-name="Stingray Remember the 80s (1080p)" tvg-id="9010" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Stingray.png" group-title="Music",Stingray Remember the 80s (1080p)
+http://channels.stevensonbroadcasting.io/stream/62a908d6f9b35422a362ef16ba9d3ad6
+#EXTINF:0 channelID="x-ID.87" tvg-chno="9011" tvg-name="Stingray Nothin' But 90s (1080p)" tvg-id="9011" tvg-logo="https://videos.stevensonbroadcasting.io/logos/Stingray.png" group-title="Music",Stingray Nothin' But 90s (1080p)
+http://channels.stevensonbroadcasting.io/stream/6f2a900802e6bc4bee560cdfe1bedb7a
+#EXTINF:0 channelID="x-ID.94" tvg-chno="9012" tvg-name="vevo Country" tvg-id="9012" tvg-logo="https://videos.stevensonbroadcasting.io/logos/vevo.png" group-title="Music",vevo Country
+http://channels.stevensonbroadcasting.io/stream/9c2d95f56c877aefe9c1f20c39fb5551
+#EXTINF:0 channelID="x-ID.95" tvg-chno="9013" tvg-name="vevo Hits" tvg-id="9013" tvg-logo="https://videos.stevensonbroadcasting.io/logos/vevo.png" group-title="Music",vevo Hits
+http://channels.stevensonbroadcasting.io/stream/2ba736bf3c405be6929cfa44b7bf69af
+#EXTINF:0 channelID="x-ID.96" tvg-chno="9014" tvg-name="vevo R&B" tvg-id="9014" tvg-logo="https://videos.stevensonbroadcasting.io/logos/vevo.png" group-title="Music",vevo R&B
+http://channels.stevensonbroadcasting.io/stream/2a949a331ef1db7094eb456d8d3e78af
